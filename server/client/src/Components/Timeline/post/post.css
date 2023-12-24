@@ -1,0 +1,19 @@
+.profile_pic{width: 4%;
+    position: absolute;bottom: -10%;}
+.img{width: 60%;}
+.pheader{
+    position: relative;
+    top: 30px;
+}
+
+.b2{
+    
+  position: absolute;
+    left: 62%;
+    top: 10%;
+    }
+.b1{
+        position: absolute;
+        left: 10%;
+        bottom: 70%;
+        }
