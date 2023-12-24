@@ -1,0 +1,12 @@
+
+.home{display: flex;
+flex-direction: row;
+}
+.left_nav_wrapper{
+    flex:0.2;
+
+}
+.timeline_wrapper{
+    flex:0.8;
+    
+}

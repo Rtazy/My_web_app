@@ -1,0 +1,14 @@
+.timeline_wrapper{background-color: rgb(21, 19, 40);}
+html
+{background-color: black;
+color:white;
+justify-content: space-between;
+}
+.b3{position: relative;
+    left: 2%;
+top: 10%;}
+    .b4{position: relative;
+        left: -16%;
+    
+bottom: 30%;}
+.pfooter{display: inline-flex;}
